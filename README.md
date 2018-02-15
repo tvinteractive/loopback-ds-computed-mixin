@@ -1,5 +1,6 @@
 COMPUTED
 ================
+###### Forked by TVI for use in [tvi-api-service](https://github.com/tvinteractive/tvi-api-service) & [satcam-api-service](https://github.com/tvinteractive/satcam-api-service)
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/fullcube/loopback-ds-computed-mixin.svg)](https://greenkeeper.io/)
 
